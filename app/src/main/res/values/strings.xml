@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Applicationzzz</string>
+    <string name="face_detect_text">face</string>
+    <string name="action_settings" />
+</resources>
